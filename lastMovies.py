@@ -6,10 +6,12 @@ import time
 import urllib2
 import urllib
 
+__author__ = "hongzm" 
 
 #UTF-8编码
 reload(sys)
-# sys.setdefaultencoding('utf8')  
+# sys.setdefaultencoding('utf8')
+
 
 #get html
 def getHtml(url):
