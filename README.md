@@ -1,10 +1,16 @@
 ##little crawler
 ===
+## OATable 
 ### 公司需要统计加班数据来计算加班费，由于个人加班较多，就做了考勤的小工具
 ### TODO : 
 *1、完整的写入excel
 *2、密码加密显示
 
+## lastMovies
+### 用urllib来查看最近有什么电影
+### TODO: 
+*1、将影片名字作为图片名字
+*2、将影片简介添加到一个文本里面
 
 ## cx_freeze 介绍
 * 安装 install cx_freeze
